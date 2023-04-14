@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prowz12</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="Confirm_password_hint">Confirm password</string>
+
+</resources>
